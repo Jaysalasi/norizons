@@ -4,9 +4,9 @@
     <item>
       <title>Version 2.0.2</title>
       <description>
-      - Added update notifier
+      - Minor bug fixes
       </description>
-      <pubDate>Monday, 16 Oct 2026 09:00:11 +0000</pubDate>
+      <pubDate>Monday, 26 Oct 2026 09:00:11 +0000</pubDate>
       <enclosure url="https://play.google.com/store/apps/details?id=com.valgee.app" length="107758" type="application/octet-stream"  sparkle:version="2.0.2" sparkle:os="android"/>
     </item>
   </channel>

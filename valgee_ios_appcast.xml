@@ -1,0 +1,13 @@
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Valgee Changelog</title>
+    <item>
+      <title>Version 2.0.6</title>
+      <description>
+      - minor bug fixes
+      </description>
+      <pubDate>Monday, 26 Oct 2026 09:00:11 +0000</pubDate>
+      <enclosure url="https://play.google.com/store/apps/details?id=com.valgee.app" length="107758" type="application/octet-stream"  sparkle:version="2.0.6" sparkle:os="ios"/>
+    </item>
+  </channel>
+</rss>
