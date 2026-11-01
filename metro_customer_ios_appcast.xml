@@ -2,12 +2,12 @@
   <channel>
     <title>Tincity Metro 2.0 Changelog</title>
     <item>
-      <title>Version 1.0.15</title>
+      <title>Version 7.0.4</title>
       <description>
       - minor fixes
       </description>
       <pubDate>Monday, 30 Oct 2026 22:00:11 +0000</pubDate>
-      <enclosure url="https://apps.apple.com/ng/app/tin-city-metro-2-0/id6745516843" length="107758" type="application/octet-stream" sparkle:version="1.0.15" sparkle:os="ios"/>
+      <enclosure url="https://apps.apple.com/ng/app/tin-city-metro-2-0/id6745516843" length="107758" type="application/octet-stream" sparkle:version="7.0.4" sparkle:os="ios"/>
     </item>
   </channel>
 </rss> 
